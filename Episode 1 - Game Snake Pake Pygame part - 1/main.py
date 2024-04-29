@@ -1,6 +1,6 @@
 # tiap nambah 10 makanan nambah speed
 # Todo: 
-# init
+# initaaa
 import pygame
 from Game import Arena,Kotak,Uler
 
